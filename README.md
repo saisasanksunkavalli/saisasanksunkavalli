@@ -3,6 +3,7 @@
 - 📫 How to reach me: sasanksunkavalli@gmail.com
      | [Stackoverflow](https://stackoverflow.com/users/5173119/sasank-sunkavalli?tab=profile)
      | [Medium](https://medium.com/@sasanksunkavalli)
+     | [Linkedin](https://www.linkedin.com/in/sasank-sunkavalli-84b36b79/)
 - 👯 I’m looking to collaborate on ... Android Opensource Projects 
 - 💬 Ask me about ... Android App Development
 - 🌱 I’m currently learning ... React Native 
