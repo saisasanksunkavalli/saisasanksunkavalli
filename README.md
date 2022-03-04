@@ -6,7 +6,7 @@
      | [Linkedin](https://www.linkedin.com/in/sasank-sunkavalli-84b36b79/)
 - 👯 I’m looking to collaborate on ... Android Opensource Projects 
 - 💬 Ask me about ... Android App Development
-- 🌱 I’m currently learning ... React Native 
+- 🌱 I’m currently learning ... Advanced Kotlin 
 
 <img src="https://github-readme-stats.vercel.app/api?username=saisasanksunkavalli"/>
 <!--
